@@ -32,4 +32,4 @@ I believe in sharing knowledge and streamlining workflows for others. I've condu
 When I'm not designing architectures or recording content, I'm at the gym. I'm highly interested in aesthetic biomechanics and structure my training around Upper/Lower and PPL splits.
 
 ---
-📫 **Let's Connect:** [Link to your LinkedIn] | 📺 **YouTube:** [Link to your Channel]
+📫 **Let's Connect:** https://www.linkedin.com/in/manas-dange/
