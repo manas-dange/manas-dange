@@ -1,27 +1,35 @@
-<h1 align="center">Hi 👋, I'm Manas Dange</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manas-dange&label=Profile%20views&color=0e75b6&style=flat" alt="manas-dange" /> </p>
+# Hi, I'm Manas Dange 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manas-dange" alt="manas-dange" /></a> </p>
+> **B.Tech CS Student | Product Development Intern | Solo Builder**
+> Crafting agentic AI systems, predictive models, and rapid prototypes from Navi Mumbai.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+## 👨‍💻 About Me
+* 🎓 Second-year B.Tech Computer Science student at Mumbai University.
+* 💼 Currently working as a product development intern, with four previous software development internships completed.
+* 🚀 I focus heavily on **Data Science and Machine Learning**, specifically practical applications like geospatial analysis, predictive modeling, and agentic AI. 
+* 🛠️ I embrace a "vibe-coding" workflow—leveraging AI as a refiner and orchestrator to build rapid, highly functional prototypes.
+* 🎥 I actively **Build in Public**. I document my learning journey, project architectures, and solo-building process through minimalist, ambient tech vlogs on YouTube and write-ups on LinkedIn.
 
-- 📝 I regularly write articles on [https://medium.com/@notify.manas](https://medium.com/@notify.manas)
+## 🚀 Featured Projects
+* **COSMEON / Atmos:** An autonomous ML pipeline for predictive disaster response, built during GDG HackX 4.0.
+* **Market Miner:** A high-density, Bloomberg-style commodity intelligence terminal featuring client-side live simulation and AI-generated sentiment analysis.
+* **Priority Pilot:** A Micro SaaS for B2B distributors that utilizes `scikit-learn` and OR-Tools to optimize complex delivery routes.
+* **SignBridge:** A sign language translation tool exploring both custom ML training and library-based approaches (MediaPipe/TensorFlow).
+* **Digital Arrest:** A real-time behavioral scam call detection app for Android with call monitoring and SOS triggers.
+* **Market Mentor:** A gamified web app (Python, Firebase) that uses daily news to teach users about financial market impacts.
+* 🚧 *Currently Building:* A supervised ML system for automated lending decisions.
 
-- 📫 How to reach me **2024.manasd@isu.ac.in**
+## ⚙️ Tech Stack & Automation
+* **Languages:** Python, HTML/CSS
+* **ML & Data Science:** Scikit-learn, TensorFlow, MediaPipe, OR-Tools
+* **AI & Orchestration:** Gemini, n8n, Agentic Workflows
+* **Backend & Platforms:** Firebase, Kodular
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/manas-dange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/manas-dange" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manas-dange/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manas-dange/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:28926932" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:28926932" height="30" width="40" /></a>
-<a href="https://medium.com/@notify.manas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@notify.manas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/notify_manas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/notify_manas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/manas_dange/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/manas_dange/" height="30" width="40" /></a>
-</p>
+## 🤝 Community & Mentorship
+I believe in sharing knowledge and streamlining workflows for others. I've conducted peer mentoring sessions, including hands-on n8n automation workshops for MBA Business Analytics students, and regularly attend industry events like AWS Community Day. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🏋️‍♂️ Beyond the Terminal
+When I'm not designing architectures or recording content, I'm at the gym. I'm highly interested in aesthetic biomechanics and structure my training around Upper/Lower and PPL splits.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manas-dange&show_icons=true&locale=en&layout=compact" alt="manas-dange" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-dange&" alt="manas-dange" /></p>
+---
+📫 **Let's Connect:** [Link to your LinkedIn] | 📺 **YouTube:** [Link to your Channel]
